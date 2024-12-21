@@ -5,6 +5,8 @@ EduStake is an innovative liquid staking platform that combines decentralized fi
 
 ## Contract Address
 **Deployed Contract Address:** `0x315359A323B3a281cC4Fcf52aB1056f834092BCb`
+![image](https://github.com/user-attachments/assets/f9e39f8e-c7d0-40a2-a02c-e1bc8e8d68a5)
+
 
 ## Project Vision
 Our vision is to bridge the gap between decentralized finance and educational funding by creating a sustainable, transparent, and efficient mechanism for supporting educational initiatives. By implementing liquid staking derivatives, we enable supporters of education to contribute to meaningful projects while maintaining liquidity and earning rewards. This system creates a win-win situation where stakers can participate in DeFi activities while simultaneously supporting educational development.
